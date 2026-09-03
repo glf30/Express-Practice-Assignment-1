@@ -1,4 +1,4 @@
-# Express-LAB-Assignment-1
+# Express-Practice-Assignment-1
 
 ## Goals
 - Create a server using the Express module  
