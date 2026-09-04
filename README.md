@@ -32,6 +32,11 @@ const foodTrucks = {
       open: true
     },
     {
+      name: "Impastable",
+      cuisine: ["italian", "pasta"],
+      open: open
+    }
+    {
       name: "Bao Down",
       cuisine: ["chinese", "dumplings"],
       open: true
@@ -86,6 +91,11 @@ const foodTrucks = {
       name: "Veggie Wheels",
       cuisine: ["vegetarian", "vegan"],
       open: true
+    },
+    {
+      name: "Pasta World",
+      cuisine: ["italian", "pasta"],
+      open: open
     }
   ]
 };
