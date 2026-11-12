@@ -258,9 +258,10 @@ const foodTrucks = {
 - If the URL ends in /midtown, send back only the midtown food trucks
 - If the URL ends in /uptown, send back only the uptown food trucks
 - If the URL ends in /open, return only food trucks where open is true
-- If the URL ends in /closed, return only food trucks where open is false
-- If the URL ends in /pizza, return only trucks that serve "pizza"
 - If the URL ends in /vegetarian, return only trucks that serve "vegetarian"
-- If the URL ends in /tacos, return only trucks that serve "tacos"
 - If the URL ends in /italianOpen, return only trucks that serve "italian" and are open
+- If the URL ends in /openPizzaOrTacos, return only open food trucks that serve either "pizza" or "tacos".
+- If the URL ends in /multipleCuisines, return only food trucks that serve more than one cuisine.
+- If the URL ends in /openCounts, return an object containing the number of open food trucks in each neighborhood.
+- If the URL ends in /mostCuisines, return the food truck(s) that serves the greatest number of cuisines.
 - If the URL ends in anything else, respond with a failure message.
