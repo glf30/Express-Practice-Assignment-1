@@ -45,6 +45,51 @@ const foodTrucks = {
       name: "Green Garden",
       cuisine: ["vegetarian", "vegan"],
       open: false
+    },
+    {
+      name: "Pizza My Heart",
+      cuisine: ["italian", "pizza"],
+      open: true
+    },
+    {
+      name: "Taqueria Express",
+      cuisine: ["mexican", "tacos", "burritos"],
+      open: true
+    },
+    {
+      name: "Falafel Fusion",
+      cuisine: ["middle eastern", "vegetarian", "falafel"],
+      open: true
+    },
+    {
+      name: "The Noodle Cart",
+      cuisine: ["chinese", "noodles"],
+      open: false
+    },
+    {
+      name: "Veggie Delight",
+      cuisine: ["vegetarian", "vegan", "salads"],
+      open: true
+    },
+    {
+      name: "Pasta Bella",
+      cuisine: ["italian", "pasta"],
+      open: false
+    },
+    {
+      name: "Smoky Joe's BBQ",
+      cuisine: ["bbq", "burgers"],
+      open: true
+    },
+    {
+      name: "Slice of Heaven",
+      cuisine: ["pizza", "italian"],
+      open: false
+    },
+    {
+      name: "Sushi Street",
+      cuisine: ["japanese", "sushi"],
+      open: true
     }
   ],
 
@@ -73,6 +118,56 @@ const foodTrucks = {
       name: "Pasta Express",
       cuisine: ["italian", "pasta"],
       open: false
+    },
+    {
+      name: "Cheese Please",
+      cuisine: ["burgers", "cheese"],
+      open: true
+    },
+    {
+      name: "Veggie Vibes",
+      cuisine: ["vegetarian", "vegan"],
+      open: true
+    },
+    {
+      name: "Napoli on Wheels",
+      cuisine: ["italian", "pizza"],
+      open: true
+    },
+    {
+      name: "Taco Town",
+      cuisine: ["mexican", "tacos", "burritos"],
+      open: false
+    },
+    {
+      name: "Golden Dumplings",
+      cuisine: ["chinese", "dumplings"],
+      open: true
+    },
+    {
+      name: "Bombay Bites",
+      cuisine: ["indian", "curry"],
+      open: true
+    },
+    {
+      name: "The Green Fork",
+      cuisine: ["vegetarian", "salads"],
+      open: false
+    },
+    {
+      name: "BBQ Boulevard",
+      cuisine: ["bbq", "burgers"],
+      open: true
+    },
+    {
+      name: "Pasta Parade",
+      cuisine: ["italian", "pasta"],
+      open: true
+    },
+    {
+      name: "Tokyo Treats",
+      cuisine: ["japanese", "sushi"],
+      open: false
     }
   ],
 
@@ -95,6 +190,61 @@ const foodTrucks = {
     {
       name: "Pasta World",
       cuisine: ["italian", "pasta"],
+      open: true
+    },
+    {
+      name: "Pizza Planet",
+      cuisine: ["pizza", "italian"],
+      open: false
+    },
+    {
+      name: "Taco Fiesta",
+      cuisine: ["mexican", "tacos"],
+      open: true
+    },
+    {
+      name: "Spice Route",
+      cuisine: ["indian", "curry"],
+      open: false
+    },
+    {
+      name: "The Burger Bus",
+      cuisine: ["burgers", "fries"],
+      open: true
+    },
+    {
+      name: "Vegan Voyage",
+      cuisine: ["vegetarian", "vegan"],
+      open: false
+    },
+    {
+      name: "Little Italy Truck",
+      cuisine: ["italian", "pasta"],
+      open: true
+    },
+    {
+      name: "Chinatown Express",
+      cuisine: ["chinese", "dumplings", "noodles"],
+      open: true
+    },
+    {
+      name: "Taco Supreme",
+      cuisine: ["mexican", "tacos", "burritos"],
+      open: false
+    },
+    {
+      name: "Garden on Wheels",
+      cuisine: ["vegetarian", "salads", "vegan"],
+      open: true
+    },
+    {
+      name: "Pizza Pocket",
+      cuisine: ["pizza"],
+      open: true
+    },
+    {
+      name: "Mediterranean Magic",
+      cuisine: ["middle eastern", "vegetarian", "falafel"],
       open: true
     }
   ]
